@@ -1,2 +1,1 @@
-print("hello world!")
-print("fall destiny \" helo universe \'")
+print("Usualy the first words the persons who starts programing first print out is: \"Hello World\"")
